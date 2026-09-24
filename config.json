@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "behavioral-testing-python",
+      "title": "Behavioral Testing with Pytest",
+      "description": "Write behavioral tests with pytest and use failures to improve a Python task-list program",
+      "path": "assignments/behavioral-testing-python",
+      "dueDate": "2026-10-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
